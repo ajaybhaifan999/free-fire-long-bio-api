@@ -1,5 +1,6 @@
 Flask 
 requests
+gevent
 protobuf
 protobuf_decoder
 pyjwt
